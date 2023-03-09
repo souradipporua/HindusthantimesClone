@@ -1,1 +1,1 @@
-# firstproject
+# news clone
